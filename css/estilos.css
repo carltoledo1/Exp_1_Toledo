@@ -1,0 +1,47 @@
+
+.fondo{
+    background-color: rgb(208, 208, 255);
+} 
+
+.color{
+    color: white;
+}
+
+nav{
+    background-color: black;
+    padding: 0px;
+}
+
+body{
+    font-family: cursive;
+}
+h1{
+    text-align: center;
+
+}
+p{
+    text-align: justify;
+}
+
+.caja-logo{
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+    width:205px ;
+    height: 205px;
+}
+.caja-logo img{
+    width: 200px;
+    height: 200px;
+}
+.cajaQ{
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+    width:205px ;
+    height: 205px;
+}
+.cajaQ img{
+    width: 200px;
+    height: 200px;
+}
